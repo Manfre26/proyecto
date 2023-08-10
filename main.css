@@ -1,0 +1,131 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+     @import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Lumanosimo&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Lugrasimo&family=Lumanosimo&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100;200;300;400&family=Kanit:ital,wght@0,200;1,200&family=REM:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,400&display=swap');
+       
+                 
+    .Titulo {
+        margin: 50px;
+        margin-left: 500px;
+    }
+
+
+
+    .indicacuadro {
+
+        width:600px;
+    }
+
+.link {
+    color: black;
+    
+    background-color: rgb(73, 253, 73);
+    
+}
+
+    .Cannabis {
+      
+       margin-top: 50px;
+       margin-left: 500px;
+    font-family: 'Kanit', sans-serif;
+    
+    }
+
+
+.Texto {
+font-family: 'Lugrasimo', cursive;
+    
+
+        
+}
+.link {
+    margin: 80px;
+
+    flex-direction: row ;
+}
+
+.diferencia {
+
+    margin-left: 500px;
+    color: brown;
+    
+}
+
+.indica {
+    
+
+background-size: 100px 100px;
+
+}
+.InfoS {
+
+    color: rgb(21, 1, 109);
+}
+
+.Sa{
+
+    color: red;
+}
+
+.IND {
+    color: red;
+}
+.indica {
+    color:rgb(21, 1, 109);
+}
+.cultivo {
+
+    color: green;
+    
+    
+    margin-top: 50px;
+    margin-left: 500px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.forma {
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    background-color: black;
+}
+.cultivosvs {
+    width: 400px;
+    background-size: 300px 250px;
+    height: 300px;
+}
+.explicacion {
+    font-family: 'Lugrasimo', cursive;
+
+    color: rgb(0, 0, 0);
+}
+
+.indicas {
+    width: 400px;
+    height: 250px;
+}
+.tituloindica {
+margin-top: 50px;
+    margin-left: 500px;
+   
+    font-family: 'Lugrasimo', cursive;
+}
+
+.titulosativa {
+    margin-top: 50px;
+        margin-left: 500px;
+        font-family: 'Lugrasimo', cursive;
+        
+}
+.sativas {
+    width: 400px;
+        height: 250px;
+        background-position: center center;
+        background-size: cover;
+}
+.fondosobre {
+    width: 1000px;
+}
