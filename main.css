@@ -9,8 +9,9 @@
        
                  
     .Titulo {
-        margin: 50px;
-        margin-left: 500px;
+        background-position: center;
+    margin: 50px;
+        margin-left: 600px;
     }
 
 
@@ -21,7 +22,7 @@
     }
 
 .link {
-    color: black;
+    color: rgb(0, 0, 0);
     
     background-color: rgb(73, 253, 73);
     
@@ -32,13 +33,22 @@
        margin-top: 50px;
        margin-left: 500px;
     font-family: 'Kanit', sans-serif;
-    
+    color:  white;
     }
-
+body {
+   background-image: url("./Imagenes/istockphoto-1315831510-612x612.jpg");
+   background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.Leyn {
+    color: white
+ 
+}
 
 .Texto {
 font-family: 'Lugrasimo', cursive;
-    
+    color: white;
 
         
 }
@@ -51,35 +61,38 @@ font-family: 'Lugrasimo', cursive;
 .diferencia {
 
     margin-left: 500px;
-    color: brown;
+    color: rgb(255, 252, 252);
     
 }
-
+.cultivosvs {
+    margin: auto;
+    background-position: center;
+}
 .indica {
     
-
+background-attachment: fixed;
 background-size: 100px 100px;
 
 }
 .InfoS {
 
-    color: rgb(21, 1, 109);
+    color: rgb(255, 254, 254);
 }
 
 .Sa{
 
-    color: red;
+    color: rgb(255, 255, 255);
 }
 
 .IND {
-    color: red;
+    color: rgb(255, 255, 255);
 }
 .indica {
-    color:rgb(21, 1, 109);
+    color:rgb(254, 254, 255);
 }
 .cultivo {
 
-    color: green;
+    color: rgb(255, 255, 255);
     
     
     margin-top: 50px;
@@ -90,7 +103,7 @@ background-size: 100px 100px;
 .forma {
     color: white;
     font-family: 'Kanit', sans-serif;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 .cultivosvs {
     width: 400px;
@@ -100,7 +113,7 @@ background-size: 100px 100px;
 .explicacion {
     font-family: 'Lugrasimo', cursive;
 
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .indicas {
@@ -113,6 +126,9 @@ margin-top: 50px;
    
     font-family: 'Lugrasimo', cursive;
 }
+.cannabidol {
+    color: rgb(255, 255, 255);
+}
 
 .titulosativa {
     margin-top: 50px;
@@ -124,8 +140,132 @@ margin-top: 50px;
     width: 400px;
         height: 250px;
         background-position: center center;
-        background-size: cover;
+        background-size: auto;
+        background-attachment: fixed;
 }
 .fondosobre {
     width: 1000px;
+}
+
+
+.guia {
+    color: rgb(255, 255, 255);
+
+}
+
+.infodequees{
+ color: rgb(255, 255, 255);
+ hyphens: auto;
+ -webkit-hyphens: auto;
+ -moz-hyphens: auto;
+ -ms-hyphens: auto;
+
+}
+.historia {
+    color: white;
+    margin-top: 40px;
+    padding: 40px;
+}
+.historia2{
+    color: rgb(255, 255, 255);
+    
+    }
+.historia3 {
+    color:  white;
+    
+}
+
+.enfermedadescss{
+    color: white;
+}
+
+
+@media screen and (max-width: 480px) {
+
+
+    .Cannabis{
+        color: white;
+    }
+    .body {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+
+    }
+.tituloindica {
+    margin: auto;
+    padding: auto;
+    color: white;
+}
+.titulosativa {
+    margin: auto;
+    padding: auto;
+    color: white;
+}
+    .cultivosvs {
+       background-position: center;
+       background-size: cover;
+     
+    }
+
+
+    .link {
+        margin: auto;
+        padding: auto;
+
+    }
+    .Titulo {
+        padding: 40px;
+        margin: 40px;
+    }
+
+
+
+.historia2 {
+    margin-top: 40px;
+    padding: 40px;
+}
+.historia3 {
+    margin-top: 40px;
+        padding: 40px;
+}
+.Texto {
+    color: white;
+}
+.indica {
+   
+    width: 400px;
+    height: 400px;
+    background-position: center;
+}
+.cannabidol {
+    color: white;
+}
+
+}
+.link:hover{
+
+font-size: 40px;
+
+
+}
+.historias:hover {
+    font-size: 30px;
+}
+
+    .infodequees:hover{
+        font-size: 30px;
+    }
+.contactos {
+    background-position: center;
+    margin: auto;
+    padding: auto;
+    color: white;
+}
+.Leyn:hover{
+    font-size: 20px;
+}
+.enfermedadescss:hover{
+    font-size: 30px;
 }
